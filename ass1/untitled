@@ -1,0 +1,30 @@
+#include <iostream>
+#include <fstream>
+#include <iomanip>
+#include <stack>
+#include <cmath>
+#include <vector>
+#include <queue>
+
+
+int main(int argc, char* argv[]) {
+
+	// setup the print out format for the precision required.
+	std::cout.setf(std::ios::fixed,std::ios::floatfield);
+	std::cout.precision(3);
+	// open the file for reading
+	std::ifstream in;
+	in.open(argv[1]);
+	// string to be read into
+	std::string s;
+	//vector
+	std::vector<std::string> vec;
+	//stack to be used
+	std::stack<std::string> buff;
+	// read the file while we have input.
+	while (in >> s) {
+		vec.push_back(s);
+	}
+	in.close();
+	parser(vec,buff);
+}

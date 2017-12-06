@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/RyanLiang/Documents/graph/Graph.h
+vector
+-
+algorithm
+-
+iostream
+-
+cassert
+-
+set
+-
+memory
+-
+algorithm
+-
+Graph.tem
+/Users/RyanLiang/Documents/graph/Graph.tem
+
+/Users/RyanLiang/Documents/graph/Graph.tem
+
+/Users/RyanLiang/Documents/graph/main.cpp
+Graph.h
+/Users/RyanLiang/Documents/graph/Graph.h
+

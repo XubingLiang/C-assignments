@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/RyanLiang/Desktop/comp6771/btree/btree.h
+iostream
+-
+cstddef
+-
+utility
+-
+map
+-
+vector
+-
+queue
+-
+btree_iterator.h
+/Users/RyanLiang/Desktop/comp6771/btree/btree_iterator.h
+
+/Users/RyanLiang/Desktop/comp6771/btree/btree_iterator.h
+iterator
+-
+btree.h
+/Users/RyanLiang/Desktop/comp6771/btree/btree.h
+
+/Users/RyanLiang/Desktop/comp6771/btree/test10.cpp
+algorithm
+-
+ostream
+-
+iterator
+-
+string
+-
+btree.h
+/Users/RyanLiang/Desktop/comp6771/btree/btree.h
+

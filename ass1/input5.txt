@@ -1,0 +1,11 @@
+2
+repeat
+4 6 sub
+1
+3
+repeat
+4
+add
+endrepeat
+sqrt
+endrepeat

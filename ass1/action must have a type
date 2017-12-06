@@ -1,0 +1,10 @@
+action must have a type
+
+
+redux features:
+1.combinaReducers
+2.createStore
+3.middleware
+
+
+const store= cratStore(reducer,bala, middleware)

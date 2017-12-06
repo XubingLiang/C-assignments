@@ -1,0 +1,27 @@
+10 20 sub
+4 3 add
+2 mult
+16.0
+sqrt
+pop
+2.0 mult
+2 div
+3 mult
+pop
+48 sqrt
+50 sqrt
+sub
+pop pop
+2 3 div
+2.0 3 div
+2 3.0 div
+0
+3 repeat
+2 repeat
+1 add
+endrepeat
+endrepeat
+1
+2.99 repeat
+2 mult
+endrepeat

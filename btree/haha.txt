@@ -1,0 +1,16 @@
+Let's insert up to 4 numbers.
+
+size of sc is: 4 tree is: 4
+36904209 40026428 80446421 15394587 
+BEFORE  index is 3 element is 0
+testing
+AFTER index is 2 element is 80446421
+BEFORE  index is 2 element is 80446421
+testing
+AFTER index is 1 element is 40026428
+BEFORE  index is 1 element is 40026428
+testing
+AFTER index is 0 element is 36904209
+BEFORE  index is 0 element is 36904209
+AFTER index is 0 element is 15394587
+FINISH checking --

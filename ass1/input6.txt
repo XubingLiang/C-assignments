@@ -1,0 +1,11 @@
+3
+2
+repeat
+5 add
+3
+repeat
+4
+mult
+endrepeat
+sqrt
+endrepeat
